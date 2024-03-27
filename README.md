@@ -5,11 +5,11 @@
 
 * 🌎 Sou de Bauru-SP
 
-* 👀 eu trabalho como QA jr na HCOSTA
+* :computer: Trabalho como QA jr na HCOSTA
 
-* 🔭 Atualmente estou trabalhando com teste de software manual e automatizao.
+* :thought_balloon: Atualmente estou trabalhando com teste de software manual e automatizao.
 
-* 🌱 Atualmente estou aprendendo Cypress, RobotFramework, Cucumber 
+* :mortar_board: Atualmente estou aprendendo Cypress, RobotFramework, Cucumber 
 
 <!---
 jothajoao/jothajoao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

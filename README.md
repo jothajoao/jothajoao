@@ -5,7 +5,7 @@
 
 * 🌎 Sou de Bauru-SP
 
-* :computer: Trabalho como QA jr na HCOSTA
+* :computer: Trabalho como QA na HCOSTA
 
 * :thought_balloon: Atualmente estou trabalhando com teste de software manual e automatizao.
 

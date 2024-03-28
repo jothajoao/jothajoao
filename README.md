@@ -11,7 +11,5 @@
 
 * :mortar_board: Atualmente estou aprendendo Cypress, RobotFramework, Cucumber 
 
-<!---
-jothajoao/jothajoao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jothajoao&layout=compact&langs_count=7&theme=tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?       username=jothajoao&layout=compact&langs_count=7&theme=tokyonight" style="max-width: 100%;">

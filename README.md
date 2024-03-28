@@ -9,7 +9,7 @@
 
 * :thought_balloon: Atualmente estou trabalhando com teste de software manual e automatizado.
 
-* :wrench: Ferramentas de uso dos testes
+* :wrench: Ferramentas de uso de testes
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6457cd487197a286e98e6e0710aff99e480d14e1bb2a903374db5ac55222d830/68747470733a2f2f61737365742e6272616e6466657463682e696f2f696449715f6b463072622f696476337a776d5369592e6a706567"><img height="20" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" data-canonical-src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6457cd487197a286e98e6e0710aff99e480d14e1bb2a903374db5ac55222d830/68747470733a2f2f61737365742e6272616e6466657463682e696f2f696449715f6b463072622f696476337a776d5369592e6a706567"><img height="20" src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=Azure-DevOps&logoColor=white" data-canonical-src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6457cd487197a286e98e6e0710aff99e480d14e1bb2a903374db5ac55222d830/68747470733a2f2f61737365742e6272616e6466657463682e696f2f696449715f6b463072622f696476337a776d5369592e6a706567"><img height="20" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" data-canonical-src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" style="max-width: 100%;"></a></code>
